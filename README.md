@@ -278,7 +278,10 @@ It is not an official GTWorld or Guaranty Trust Bank product and is not affiliat
 
 The project uses GTWorld as a case study for UX exploration and does not represent the bank's official product roadmap or design direction.
 
-Author
+Author  <img width="2000" height="3000" alt="Bank Transfer - User Flow Diagram" src="https://github.com/user-attachments/assets/8e2383d7-d02c-4d7a-89c2-661a48346432" />
+<img width="2473" height="888" alt="UX audit of the current GTWorld transfer flow using screenshots" src="https://github.com/user-attachments/assets/69df95da-9158-4b65-825b-c79b52b0ef65" />
+https://www.loom.com/share/0ac46d21546e4f42b865763dc2966ecd
+
 
 John Oyewole
 
